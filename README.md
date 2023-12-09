@@ -31,13 +31,19 @@ THEN I find a concise, descriptive title
 <br>
 
 # Description 
-Refactored the webpage to make it accessible to all users by adding placeholders for images that are either unable to render or those who use a screen reader, which was done by adding semantic elements to the HTML layout. The HTML layout was also rearranged to have a cleaner look by putting like elements together. The CSS stylesheet was also rearranged by simplifying the attributes by eliminating redundant sections and excessive wording.  
+
+**For HTML**
+<br>
+Refactored the webpage to make it accessible to all users by adding placeholders for images that are either unable to render or those who use a screen reader, which was done by adding semantic elements to the HTML layout. The HTML layout was also rearranged to have a cleaner look by putting like elements together. Fixed broken links that did not redirect the user to the correct portion of the webpage.
+
+**For CSS**
+<br>
+The CSS stylesheet was also rearranged by simplifying the attributes by eliminating redundant sections and excessive wording. 
 
 Added comments to both the HTML and CSS indicating all changes that were made.
 
 ## Screenshots
 ![image](https://github.com/Tamerbekir/horiseon-code-refactor/assets/145858725/6f22af6e-d0d5-4a70-95a8-71d0cbdb6a17)
-![D6793053-7A00-4ADF-9ACF-71A595FF066D_4_5005_c](https://github.com/Tamerbekir/horiseon-code-refactor/assets/145858725/44ada3a1-a2e8-4888-8e43-6ce861d2be62)
 
 ## Link
 
