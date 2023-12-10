@@ -1,8 +1,7 @@
 # horiseon-code-refactor
 
-# User Story
-
-## As a marketing agency
+## User Story
+As a marketing agency
 I want a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
@@ -47,4 +46,3 @@ Added comments to both the HTML and CSS indicating all changes that were made.
 ![image](https://github.com/Tamerbekir/horiseon-code-refactor/assets/145858725/6f22af6e-d0d5-4a70-95a8-71d0cbdb6a17)
 
 ## Link
-
