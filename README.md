@@ -40,6 +40,7 @@ Refactored the webpage to make it accessible to all users by adding semantic ele
 <br>
 The CSS stylesheet was rearranged by simplifying the attributes by eliminating redundant sections and excessive wording. 
 <br>
+<br>
 Added comments to both the HTML and CSS indicating all changes that were made.
 
 ## Screenshots
