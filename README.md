@@ -34,12 +34,12 @@ THEN I find a concise, descriptive title
 
 **For HTML**
 <br>
-Refactored the webpage to make it accessible to all users by adding placeholders for images that are either unable to render or those who use a screen reader, which was done by adding semantic elements to the HTML layout. The HTML layout was also rearranged to have a cleaner look by putting like elements together. Fixed broken links that did not redirect the user to the correct portion of the webpage.
+Refactored the webpage to make it accessible to all users by adding semantic elements to the HTML layout. Also made the webpage accessible by adding placeholders for images thus giving the user the ability to see image descriptions if the image does not render, or for those who use a screen reader. The HTML layout was also rearranged to have a cleaner look by putting like elements together in an easy-to-read format. Fixed broken links that did not redirect the user to the correct section of the webpage.
 
 **For CSS**
 <br>
-The CSS stylesheet was also rearranged by simplifying the attributes by eliminating redundant sections and excessive wording. 
-
+The CSS stylesheet was rearranged by simplifying the attributes by eliminating redundant sections and excessive wording. 
+<br>
 Added comments to both the HTML and CSS indicating all changes that were made.
 
 ## Screenshots
