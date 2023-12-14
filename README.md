@@ -46,3 +46,6 @@ Added comments to both the HTML and CSS indicating all changes that were made.
 ![image](https://github.com/Tamerbekir/horiseon-code-refactor/assets/145858725/6f22af6e-d0d5-4a70-95a8-71d0cbdb6a17)
 
 ## Link
+
+## Credits
+© 2023 Horiseon Social Solution Services, Inc.
